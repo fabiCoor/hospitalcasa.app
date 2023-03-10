@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8xbA0jBmVUAlajz9C46zL00mdZ5UGj5XZSAEGiEmlKgyL+iAR5kLdSqOUQllUaIyrU5nYzyGvbknXMZPzVtBkg==",
+  "success": true,
+  "projectFilePath": "C:\\Hospitalizacion\\HospitalCasa.App\\HospitalCasa.App.Dominio\\HospitalCasa.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grafixpress\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\grafixpress\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
